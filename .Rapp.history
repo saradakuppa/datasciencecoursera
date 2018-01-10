@@ -1,0 +1,10 @@
+a <- available.packages()
+a
+getwd()
+getwd()
+myfunction()
+getwd()
+dir()
+source("myfunction.R")
+ls()
+myfunction()
